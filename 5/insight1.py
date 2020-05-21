@@ -1,6 +1,6 @@
 """
 
-        author：Ming
+        
         date：2019.12.10
         function：insight1
         edition：1.0
