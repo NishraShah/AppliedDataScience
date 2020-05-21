@@ -1,5 +1,5 @@
 '''
-      author； Dai, Ming
+      author: Nishra
       version:3.0
       fucction: interval tree to store dynamic time data
 
